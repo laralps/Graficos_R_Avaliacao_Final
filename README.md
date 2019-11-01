@@ -5,6 +5,7 @@ Projeto para avaliação final da disciplina de Graficos no R e Gestão de Dados
 ## Autora
 
 Lara Lopes (lara.cunhalopes@gmail.com, 20191013584)
+
 Versão 2019-10-31
  
 ## Informações Gerais
@@ -14,11 +15,15 @@ Versão 2019-10-31
 ### Objetivo ou hipóteses
 
 **Objetivo:** Avaliar se a felicidade humana é influenciada pela renda per capita e pelo nível de direitos sociais do pais de habitação.
-	- H1: O PIB do país influencia o nível de felicidade da população.
-	- H2: O cumprimento de direitos humanos do país influencia o nível de felicidade da população.
-	- H3: O efeito do cumprimento de direitos humanos sobre o nível de felicidade da população varia com o PIB.
+
+- H1: O PIB do país influencia o nível de felicidade da população.
+
+- H2: O cumprimento de direitos humanos do país influencia o nível de felicidade da população.
+
+- H3: O efeito do cumprimento de direitos humanos sobre o nível de felicidade da população varia com o PIB.
 
 ## Dados e Arquivos
+
 - Graficos_R_Avaliacao_Final/
 	 | --- data
 		   | --- raw
@@ -39,10 +44,9 @@ Versão 2019-10-31
 				 01_tab_summary_linear_regression_hapiness.csv
 				 02_tab_anova_linear_regression_hapiness.csv
 		   | --- supp
-				 S_fig_diag_plot_linear_model_hapiness.png
-				 S_fig_exploratory_analysis_variables_hapiness.png
-				 S_tab_descripive_stats_study_variables.csv
-				 Stab_descripive_stats_study_variables.csv
+				 Sup_fig_diag_plot_linear_model_hapiness.png
+				 Sup_fig_exploratory_analysis_variables_hapiness.png
+				 Sup_tab_descripive_stats_study_variables.csv
 		   | --- temp	 
 				 temp_linear_regression_hapiness_mod3
 	 | --- R
@@ -56,10 +60,6 @@ Versão 2019-10-31
 	 Graficos_R_Avaliacao_Final.Rproj
 	 README.md
 	 
- ### Lista de arquivos e pastas
-
- Descreva aqui por aquivo
- 
  ### Fonte de Dados
 
 Dados brutos foram coletados a partir do Our World in Data, nos seguintes acessos:
@@ -88,7 +88,7 @@ Obs: Nos dados processados utilizamos a média de todos os anos para as variáve
 
 # Acesso e Utilização
 
-Baixe o repositório, unzipe e rode o Projeto "Graficos_R_Avaliacao_Final".
+Baixe o repositório [aqui](https://github.com/laralps/Graficos_R_Avaliacao_Final.git}, unzipe e rode o Projeto "Graficos_R_Avaliacao_Final".
 
--INSERIR LINK
+
 
